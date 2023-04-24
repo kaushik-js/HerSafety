@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">HerSafety</string>
+
+    <string name="proceed">PROCEED</string>
+    <string name="new_user_sign_up">New User ? Sign up</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="full_name">Full Name</string>
+    <string name="dob">Date of Birth (dd-mm-yyyy)</string>
+    <string name="address">Address</string>
+    <string name="register">REGISTER</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="contact">Contact</string>
+    <string name="alternate_contact_optional">Alternate contact(Optional)</string>
+    <string name="parents_contact_1">Parents contact 1</string>
+    <string name="parents_contact_optional">Parents contact (optional)</string>
+    <string name="loginpassword">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="menu">Menu</string>
+    <string name="send_location">SEND LOCATION</string>
+    <string name="add_security">Add Security</string>
+    <string name="log_out">Log out</string>
+    <string name="home">Home</string>
+    <string name="choose_contact">Choose Contact</string>
+    <string name="save_contacts">SAVE CONTACTS</string>
+    <string name="test">Test</string>
+    <string name="nav_home">HOME</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+    <string name="i_love_you_jyoti">I LOVE YOU JYOTI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="send_live_location">SEND LIVE LOCATION</string>
+    <string name="profile" />
+    <string name="my_profile">My Profile</string>
+</resources>

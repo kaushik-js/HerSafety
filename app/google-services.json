@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074194412497",
+    "project_id": "hersafety-c0efd",
+    "storage_bucket": "hersafety-c0efd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074194412497:android:d68353bb443cbb0aa966f0",
+        "android_client_info": {
+          "package_name": "com.kosec.hersafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074194412497-cp6i067jr6lh6m01e48iq2mi6nt4s5qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9F0divsStTqMp_rZD2MdLsrXOGAB3RpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074194412497-cp6i067jr6lh6m01e48iq2mi6nt4s5qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

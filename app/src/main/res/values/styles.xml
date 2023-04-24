@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+<!--        <item name="android:textColorPrimary">TITLE_COLOR_GOES_HERE</item>-->
+<!--        <item name="android:textColorSecondary">SUBTITLE_COLOR_GOES_HERE</item>-->
+        <item name="windowActionBar">false</item>
+    </style>
+</resources>

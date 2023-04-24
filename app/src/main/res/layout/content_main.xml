@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="88dp"
+    >
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragment_section1"
+        android:name="com.kosec.hersafety.HomeFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        tools:layout="@layout/fragment_home" />
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragment_section2"
+        android:name="com.kosec.hersafety.Security"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        tools:layout="@layout/fragment_security" />
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
